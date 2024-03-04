@@ -19,7 +19,8 @@
   "stars":2,
   "categories":["Pancakes","Californian","African"]
 },
-{"_id":"57506d62f57802807471dcd3",
+{
+  "_id":"57506d62f57802807471dcd3",
   "grades":[8,23,12,12],
   "name":"Wendy'S",
   "phone":"152-555-0146",
@@ -28,5 +29,4 @@
   "stars":4,
   "categories":["Fruits","Greek","Chinese"]
 }
-
 ]
