@@ -8,99 +8,97 @@
     "Longitude": 34.508523
   },
   {
-    "Name": "Morris Park Bake Shop",
-    "Categories": "Italian & Polynesian & Coffee",
-    "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "Name": "Dj Reynolds Pub And Restaurant",
+    "Categories": "Pancakes, Californian, African",
+    "Stars": 2,
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/DJ.jpg?raw=true",
     "Latitude": 12.769013,
     "Longitude": -85.602364
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Wendy'S",
     "Categories": "Italian & Polynesian & Coffee",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/wendy.jpg?raw=true",
     "Latitude": 1.957709,
     "Longitude": 37.297204
   },
   {
-    "Name": "Squirrel Monkey",
+    "Name": "Riviera Caterer",
     "Location": "Central & South America",
-    "Details": "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae. The name of the genus Saimiri is of Tupi origin, and was also used as an English name by early researchers.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg",
-    "Population": 11000,
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/river.jpg?raw=true",
     "Latitude": -8.783195,
     "Longitude": -55.491477
   },
   {
-    "Name": "Morris Park Bake Shop",
-    "Categories": "Italian & Polynesian & Coffee",
+    "Name": "Sangam Manchester City Centre",
+    "Categories": " Indian, Healthy, Vegetarian Friendly",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/sangam.jpg?raw=true",
     "Latitude": -14.235004,
     "Longitude": -51.92528
   },
   {
-    "Name": "Morris Park Bake Shop",
-    "Categories": "Italian & Polynesian & Coffee",
+    "Name": "Papa Johns Pizza",
+    "Categories": "Pizza Restaurant",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/papa.jpg?raw=true",
     "Latitude": -8.783195,
     "Longitude": -55.491477
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Hawksmoor",
     "Categories": "Italian & Polynesian & Coffee",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 36.204824,
     "Longitude": 138.252924
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "20 Stories",
     "Categories": "Italian & Polynesian & Coffee",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/mandrill.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 7.369722,
     "Longitude": 12.354722
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Mowgli Corn Exchange",
     "Categories": "Italian & Polynesian & Coffee",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/borneo.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 0.961883,
     "Longitude": 114.55485
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Piccolino",
     "Categories": "Italian & Polynesian & Coffee",
     "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/sebastian.jpg",
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 47.606209,
     "Longitude": -122.332071
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Don Giovanni",
     "Categories": "Italian & Polynesian & Coffee",
-    "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/henry.jpg",
+    "Stars": 5,
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 33.448377,
     "Longitude": -112.074037
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "Australasia",
     "Categories": "Italian & Polynesian & Coffee",
-    "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg",
+    "Stars": 5,
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 16.111648,
     "Longitude": 108.262122
   },
   {
-    "Name": "Morris Park Bake Shop",
+    "Name": "James Martin Restaurant",
     "Categories": "Italian & Polynesian & Coffee",
-    "Stars": 4,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/Mooch.PNG",
+    "Stars": 3,
+    "Image": "https://github.com/Jawaria-Jabbar/restaurantapp/blob/main/hawks.jpg?raw=true",
     "Latitude": 47.608013,
     "Longitude": -122.335167
   }
